@@ -1,0 +1,8 @@
+github "Moya/Moya" ~> 15.0
+github "SnapKit/SnapKit" ~> 5.0.0
+github "onevcat/Kingfisher" ~> 8.0
+github "CoderMJLee/MJRefresh"
+github "SwiftyJSON/SwiftyJSON" ~> 5.0
+github "SVProgressHUD/SVProgressHUD"
+github "WenchaoD/FSPagerView"
+github "pujiaxin33/JXSegmentedView"

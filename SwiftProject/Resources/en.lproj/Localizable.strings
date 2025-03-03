@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  SwiftProject
+
+  Created by 梓源 on 2025/2/10.
+  
+*/
+
+//首页
+"home" = "Home";
+"mine" = "My";
+
+// 积分榜单
+"points" = "Points";
+"points_detail" = "Points Detail";
+"points_mall" = "Points Mall";
+"my_points" = "My Points:";
+"points_ranking" = "Points Ranking";
+"recent_day" = "Recent Day";
+"water_bureau" = "Water Bureau";
+"environmental_bureau" = "Environmental Bureau";
+"housing_construction" = "Housing Construction";
+"login" = "Login";
+"reading" = "Reading";
+"login_description" = "Get 1 point for first daily login";
+"reading_description" = "Get 5 points for reading first three articles daily";
+"completed" = "Completed";
+"uncompleted" = "Incomplete";
+"points_earned" = "%d Points Earned";
+"daily_limit" = "/ Daily Limit %d";
+
+
+"D7K-Qz-hee.text" = "international language";

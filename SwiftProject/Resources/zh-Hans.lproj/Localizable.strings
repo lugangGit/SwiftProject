@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  SwiftProject
+
+  Created by 梓源 on 2025/2/10.
+  
+*/
+
+//首页
+"home" = "首页";
+"mine" = "我";
+
+
+// 积分榜单
+"points" = "积分";
+"points_detail" = "积分明细";
+"points_mall" = "积分商城";
+"my_points" = "我的积分:";
+"points_ranking" = "积分榜单";
+"recent_day" = "近一天";
+"water_bureau" = "水务局";
+"environmental_bureau" = "兰州环保局";
+"housing_construction" = "住房建设";
+"login" = "登录";
+"reading" = "阅读";
+"login_description" = "每日首次登录活动1积分";
+"reading_description" = "每日阅读前三篇文章，每次获得5积分";
+"completed" = "已完成";
+"uncompleted" = "未完成";
+"points_earned" = "已获%d分";
+"daily_limit" = "/ 每日上限%d分";
+
+"D7K-Qz-hee.text" = "国际化";

@@ -1,0 +1,14 @@
+{
+    "appName": "科技日报",
+    "isRelease": false,
+    "baseUrl": "https://api.rmdbw.cn/app_if/",
+    "showGuide": true,
+    "detectVersionUpdates": true,
+    "scoreMall": true,
+    "showColumnNameTags": false,
+    "smallVideoLoopPlay" : false,
+    "appId": "1",
+    "bigDataEnable": true,
+    "registerPushTag": true,
+    "getuiSn": "sn1"
+}
